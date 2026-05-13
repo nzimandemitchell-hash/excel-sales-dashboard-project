@@ -5,13 +5,7 @@
 \# Project Overview  
 
 This project is an interactive Excel-based data analysis dashboard built using sales data. It focuses on transforming raw data into meaningful insights through data cleaning, Pivot Tables, Pivot Charts, and interactive slicers.
-
-
-
 The main goal of this project is to analyze sales performance and present insights in a clear and interactive dashboard for better decision-making.
-
-
-
 
 
 \##  Tools Used  
@@ -32,9 +26,7 @@ The main goal of this project is to analyze sales performance and present insigh
 
 
 
-\# Project Features  
-
-
+\# Project Features 
 
 \### Data Cleaning  
 
@@ -62,13 +54,13 @@ The main goal of this project is to analyze sales performance and present insigh
 
 \- KPI indicators for:
 
-&#x20; - Total Sales  
+ - Total Sales  
 
-&#x20; - Total Profit  
+ -  Total Profit  
 
-&#x20; - Profit Margin  
+ - Profit Margin  
 
-&#x20; - Total Orders  
+ - Total Orders  
 
 
 
@@ -83,9 +75,6 @@ The main goal of this project is to analyze sales performance and present insigh
 \- Fully interactive dashboard for dynamic analysis  
 
 
-
-
-
 \## Key Insights  
 
 \- Identified top-performing product categories  
@@ -98,7 +87,7 @@ The main goal of this project is to analyze sales performance and present insigh
 
 
 
-\## 💡 What I Learned  
+\## What I Learned  
 
 \- Advanced Excel data analysis techniques  
 
@@ -111,8 +100,6 @@ The main goal of this project is to analyze sales performance and present insigh
 
 
 \## Dashboard Preview
-
-
 
 !\[Dashboard](dashboardd-overview.png)
 
